@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>تگ‌ها on دانیال دوجی - وبلاگ شخصی</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in تگ‌ها on دانیال دوجی - وبلاگ شخصی</description>
+    <image>
+      <title>دانیال دوجی - وبلاگ شخصی</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Tue, 20 Feb 2024 22:28:00 +0330</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tagmag</title>
+      <link>//localhost:1313/tags/tagmag/</link>
+      <pubDate>Tue, 20 Feb 2024 22:28:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/tagmag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>دانیال</title>
+      <link>//localhost:1313/tags/%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84/</link>
+      <pubDate>Tue, 20 Feb 2024 22:17:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>الی</title>
+      <link>//localhost:1313/tags/%D8%A7%D9%84%DB%8C/</link>
+      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/%D8%A7%D9%84%DB%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ایمان</title>
+      <link>//localhost:1313/tags/%D8%A7%DB%8C%D9%85%D8%A7%D9%86/</link>
+      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/%D8%A7%DB%8C%D9%85%D8%A7%D9%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>تکنولوژی</title>
+      <link>//localhost:1313/tags/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</link>
+      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>دین</title>
+      <link>//localhost:1313/tags/%D8%AF%DB%8C%D9%86/</link>
+      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
+      <guid>//localhost:1313/tags/%D8%AF%DB%8C%D9%86/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

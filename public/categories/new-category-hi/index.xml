@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>New Category Hi on دانیال دوجی - وبلاگ شخصی</title>
+    <link>//localhost:1313/categories/new-category-hi/</link>
+    <description>Recent content in New Category Hi on دانیال دوجی - وبلاگ شخصی</description>
+    <image>
+      <title>دانیال دوجی - وبلاگ شخصی</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Tue, 20 Feb 2024 22:28:00 +0330</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/new-category-hi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>best title for ever 20</title>
+      <link>//localhost:1313/some-odd-link/</link>
+      <pubDate>Tue, 20 Feb 2024 22:28:00 +0330</pubDate>
+      <guid>//localhost:1313/some-odd-link/</guid>
+      <description>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد و زمان مورد نیاز شامل حروفچینی دستاوردهای اصلی، و جوابگوی سوالات پیوسته اهل دنیای موجود طراحی اساسا مورد استفاده قرار گیرد.</description>
+    </item>
+  </channel>
+</rss>

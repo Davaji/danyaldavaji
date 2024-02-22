@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>دین on دانیال دوجی - وبلاگ شخصی</title>
+    <link>//localhost:1313/tags/%D8%AF%DB%8C%D9%86/</link>
+    <description>Recent content in دین on دانیال دوجی - وبلاگ شخصی</description>
+    <image>
+      <title>دانیال دوجی - وبلاگ شخصی</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fa</language>
+    <lastBuildDate>Tue, 20 Feb 2024 13:17:00 +0330</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%D8%AF%DB%8C%D9%86/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is HUGO title</title>
+      <link>//localhost:1313/this-is-my-first-post-on-hugo/</link>
+      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
+      <guid>//localhost:1313/this-is-my-first-post-on-hugo/</guid>
+      <description>این اولین پست من است. This is My First post. نوشتن با ابسیدین را امتحان می‌‌کنم.</description>
+    </item>
+  </channel>
+</rss>
