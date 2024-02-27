@@ -11,28 +11,6 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>fa</language>
-    <lastBuildDate>Tue, 20 Feb 2024 22:28:00 +0330</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>New Category Hi</title>
-      <link>//localhost:1313/categories/new-category-hi/</link>
-      <pubDate>Tue, 20 Feb 2024 22:28:00 +0330</pubDate>
-      <guid>//localhost:1313/categories/new-category-hi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>حوزه‌ی پزشکی</title>
-      <link>//localhost:1313/categories/%D8%AD%D9%88%D8%B2%D9%87%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</link>
-      <pubDate>Tue, 20 Feb 2024 22:17:00 +0330</pubDate>
-      <guid>//localhost:1313/categories/%D8%AD%D9%88%D8%B2%D9%87%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>درس‌‌گفتار</title>
-      <link>//localhost:1313/categories/%D8%AF%D8%B1%D8%B3%DA%AF%D9%81%D8%AA%D8%A7%D8%B1/</link>
-      <pubDate>Tue, 20 Feb 2024 13:17:00 +0330</pubDate>
-      <guid>//localhost:1313/categories/%D8%AF%D8%B1%D8%B3%DA%AF%D9%81%D8%AA%D8%A7%D8%B1/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

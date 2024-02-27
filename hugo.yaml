@@ -59,12 +59,20 @@ params:
 
 
 
-  # home-info mode
-  homeInfoParams:
-    Title: سلام دانیال دوجی هستم
-    Content: >
-        اینجا می‌تونید آخرین نوشته‌های من رو بخونید.
-  socialIcons:
+  profileMode:
+    enabled: true
+    title: "<Title>" # optional default will be site title
+    subtitle: "This is subtitle"
+    imageUrl: "" # optional
+    imageTitle: "" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: پست‌ها
+        url: "/posts"
+
+
+  socialIcons: # optional
     - name: telegram
       url: "https://t.me/davajinotes"
 
@@ -112,9 +120,9 @@ permalinks:
 
 menu:
   main:
-    - identifier: about
-      name: درباره‌ی من
-      url: /about/
+    - identifier: posts
+      name: پست‌ها
+      url: /posts/
       weight: 10
     - identifier: categories
       name: دسته‌بندی

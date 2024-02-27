@@ -2,53 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/some-odd-link/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/new-category-hi/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
-  </url><url>
     <loc>//localhost:1313/posts/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
+    <lastmod>2024-02-26T21:11:00+03:30</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/tagmag/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
+    <loc>//localhost:1313/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D9%BE%D8%B3%D8%AA/</loc>
+    <lastmod>2024-02-26T21:11:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-02-20T22:28:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/%D8%AD%D9%88%D8%B2%D9%87%DB%8C-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C/</loc>
-    <lastmod>2024-02-20T22:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%D8%AF%D8%A7%D9%86%DB%8C%D8%A7%D9%84/</loc>
-    <lastmod>2024-02-20T22:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/%D9%BE%D8%B3%D8%AA-%D8%AF%D9%88%D9%85-%D9%85%D9%86/</loc>
-    <lastmod>2024-02-20T22:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/this-is-my-first-post-on-hugo/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%D8%A7%D9%84%DB%8C/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%D8%A7%DB%8C%D9%85%D8%A7%D9%86/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/%D8%AF%D8%B1%D8%B3%DA%AF%D9%81%D8%AA%D8%A7%D8%B1/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/%D8%AF%DB%8C%D9%86/</loc>
-    <lastmod>2024-02-20T13:17:00+03:30</lastmod>
+    <lastmod>2024-02-26T21:11:00+03:30</lastmod>
   </url><url>
     <loc>//localhost:1313/about/</loc>
   </url><url>
@@ -56,6 +17,10 @@
   </url><url>
     <loc>//localhost:1313/archives/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
     <loc>//localhost:1313/search/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>
